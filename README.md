@@ -6,4 +6,5 @@ Requirements:
 
 
 numpy==1.21.2
-rriver==0.8.0
+
+river==0.8.0
